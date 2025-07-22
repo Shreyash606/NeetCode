@@ -1,6 +1,6 @@
 """
 Problem: 2. Add Two Numbers
-URL: https://leetcode.com/problems/add-two-numbers/description/
+URL: https://leetcode.com/problems/add-two-numbers/
 Difficulty: Easy
 Tags: None
 Date: 7/22/2025
