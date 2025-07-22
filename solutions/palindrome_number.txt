@@ -1,0 +1,15 @@
+# Palindrome Number
+
+**Language:** unknown  
+**Date:** July 22, 2025  
+**Problem:** https://leetcode.com/problems/palindrome-number/
+
+## Solution
+
+```unknown
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+```
+
+---
+*Automatically synced by LeetSync*
