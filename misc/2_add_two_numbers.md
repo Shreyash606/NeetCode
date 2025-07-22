@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Date:** 7/22/2025
-**URL:** https://leetcode.com/problems/add-two-numbers/submissions/1706791887/
+**URL:** https://leetcode.com/problems/add-two-numbers/
 **Tags:** 
 
 ## Solution
@@ -17,7 +17,6 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy_head = ListNode(0)
         curr = dummy_head
-        carry = 0
 
 ```
 
