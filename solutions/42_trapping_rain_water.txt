@@ -1,8 +1,8 @@
 # 42. Trapping Rain Water
 
 **Language:** unknown  
-**Date:** July 22, 2025 at 12:32 PM  
-**Problem:** https://leetcode.com/problems/trapping-rain-water/
+**Date:** July 22, 2025 at 12:33 PM  
+**Problem:** https://leetcode.com/problems/trapping-rain-water/submissions/1707566393/
 
 ## Solution
 
