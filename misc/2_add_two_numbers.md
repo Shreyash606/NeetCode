@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Date:** 7/22/2025
-**URL:** https://leetcode.com/problems/add-two-numbers/description/
+**URL:** https://leetcode.com/problems/add-two-numbers/submissions/1706788024/
 **Tags:** 
 
 ## Solution
