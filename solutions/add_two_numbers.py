@@ -1,8 +1,8 @@
 # Add Two Numbers
 
 **Language:** python  
-**Date:** July 22, 2025 at 12:45 AM  
-**Problem:** https://leetcode.com/problems/add-two-numbers/submissions/1706799222/
+**Date:** July 22, 2025 at 10:08 AM  
+**Problem:** https://leetcode.com/problems/add-two-numbers/
 
 ## Solution
 
