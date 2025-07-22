@@ -1,6 +1,6 @@
 """
 Problem: Trapping Rain Water
-URL: https://leetcode.com/problems/trapping-rain-water/submissions/1707842700/
+URL: https://leetcode.com/problems/trapping-rain-water/submissions/1707844095/
 Difficulty: Easy
 Tags: None
 Date: 7/22/2025
